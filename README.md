@@ -16,4 +16,4 @@
 * Upon entering the webpage, you will randomly encounter a shower thought. To view additional thoughts, click anywhere on the screen to refresh the page, which will display a new whimsical idea.
 ## Related Links
 * GitHub: https://github.com/liuliu8221-a11y/ShowerThought.git
-* Rander:
+* Rander: https://showerthought.onrender.com
